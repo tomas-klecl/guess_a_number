@@ -1,4 +1,4 @@
-# ZTM_guessing_game
+# guess_a_number
 Zero to Mastery number guessing game + function testing.
 
 HOW TO USE:
